@@ -1,1 +1,1 @@
-from random import randint
+# Programa dentro de lib
